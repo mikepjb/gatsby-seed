@@ -1,0 +1,13 @@
+---
+templateKey: index-page
+title: 'Dawn of a new site'
+image: /img/background.jpg
+heading: 'Dawn of a new site'
+subheading: 'Time to create something new.'
+mainpitch:
+  title: 'Why?'
+  description >
+    Write something here.
+description >-
+  Write something here too.
+---
